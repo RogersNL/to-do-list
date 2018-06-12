@@ -1,0 +1,10 @@
+#task-info {
+  display: none;
+}
+.task-element {
+  cursor: pointer;
+  color: red;
+}
+.task-element:hover {
+  text-decoration: underline;
+}
